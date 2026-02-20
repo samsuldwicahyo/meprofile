@@ -65,13 +65,16 @@ I thrive on solving complex problems and am constantly exploring modern technolo
 
 ---
 
-## 📊 Programming Focus
+## 🛠️ My Productivity & Focus
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samsuldwicahyo&layout=compact&theme=tokyonight&hide_border=true" height="180px" />
-  <br />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samsuldwicahyo&theme=tokyonight" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samsuldwicahyo&theme=tokyonight" width="400" />
 </div>
 
+<div align="center">
+  <br />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="85%" />
+</div>
 ---
 
 ### 🐍 Contribution Journey
