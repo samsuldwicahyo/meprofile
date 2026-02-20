@@ -63,9 +63,9 @@ I thrive on solving complex problems and am constantly exploring modern technolo
   <img src="https://streak-stats.demolab.com?user=samsuldwicahyo&theme=tokyonight&hide_border=true" width="100%" />
 </div>
 
-## 🏆 GitHub Trophies
+## 💡 Random Dev Quote
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=samsuldwicahyo&theme=radical&no-bg=true&margin-w=20&margin-h=20" alt="trophy" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
 </div>
 
 ---
